@@ -225,7 +225,7 @@ function App() {
           </button>
         </div>
 
-        <div class="author"> Designed and Coded by
+        <div className="author"> Designed and Coded by
         <a href="https://www.github.com/mihir-mech" target="_blank"> Mihir Prajapati</a>
         </div>
       
